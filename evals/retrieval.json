@@ -1,0 +1,12 @@
+[
+  { "question": "How do I enable CORS for my API routes?", "sources": ["hono/middleware/builtin/cors"] },
+  { "question": "How can I redirect a request to another URL?", "sources": ["hono/api/context"] },
+  { "question": "How do I validate a JSON request body with Zod?", "sources": ["hono/guides/validation"] },
+  { "question": "How do I protect routes with HTTP basic authentication?", "sources": ["hono/middleware/builtin/basic-auth"] },
+  { "question": "How do I deploy a Hono app to Cloudflare Workers?", "sources": ["hono/getting-started/cloudflare-workers", "hono/getting-started/cloudflare-workers-vite"] },
+  { "question": "What router does Hono use by default and why is it fast?", "sources": ["hono/concepts/routers"] },
+  { "question": "How do I share types between server and client with RPC?", "sources": ["hono/guides/rpc"] },
+  { "question": "How do I write tests for my Hono routes?", "sources": ["hono/guides/testing", "hono/helpers/testing"] },
+  { "question": "Can I commit an API key to a private repository?", "sources": ["policies/secrets-handling"] },
+  { "question": "How long are application logs with personal data kept?", "sources": ["policies/data-retention"] }
+]

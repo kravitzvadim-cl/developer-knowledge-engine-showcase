@@ -1,0 +1,1 @@
+These policies are synthetic. They were written for this demo to give the engine a compliance angle, and describe a fictional company ("Northwind"). They are not legal advice and do not belong to any real organization.
